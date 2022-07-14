@@ -1,0 +1,41 @@
+Printed: 21.06.202210:44:58 dnata Singapore Catering Service - Recipe Card                           User ID:CTSKMS
+
+Recipe No: RCASSAUC0455 Recipe Desc: Mango Coulis (Sauce - Pastry)
+
+Recipe Long
+Description:   Mango Coulis (Sauce - Pastry)
+
+
+
+Section PKC      Pastry Kitchen (Cooking)                    Photo Code                        Photo Date
+
+Base Qty/Portion     2.5   L    Specs 1 PTN = 2.500 L
+
+Recipe Classification
+
+Recipe Type    SAUC SAUCE
+
+
+Content Type   MLCO COLD MEAL
+
+Meal Class
+
+Airline ID     CAS
+
+Process        COOK Cooking
+
+
+Item       Ingredient         Description         INGREDIENTS                             Quantity  Unit
+0010       800022             COLOURING - LEMON YELLOW                                       0.05   KG     x      1
+
+0020       RCASPYFC0023       MANGO PUREE                                                    2000   G      x      1
+0030       800949             SUGAR - FINE GRANULATED                                         500   G      x      1
+
+0040       RCASPYMS0022       WATER                                                           500   ML     x      1
+
+                                                   METHOD
+                  1. PUT SUGAR INTO THE WATER, ADD YELLOW COLOURING AND BOIL IT.
+
+                  2. WHEN ALL SUGAR DISSOLVED ADD MANGO PUREE AND BOIL TOGETHER.
+                  3. STIR CONSTANTLY AND BOIL SLOWLY FOR 20 MINUTES.
+                  4. WHEN READY TAKE OUT, COOL IT IN THE CHILLER AND SERVE COLD.

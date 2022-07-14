@@ -1,0 +1,39 @@
+Printed: 21.06.2022  10:39:59  dnata Singapore Catering Service - Recipe Card                                User ID:CTSKMS
+
+Recipe No: RCASSALD0598 Recipe Desc: (Sald)Brown Rice Salad
+
+Recipe Long
+Description:    (Sald)Brown Rice Salad
+
+
+
+Section CKC        Cold Kitchen (Cooking)                         Photo Code                           Photo Date
+
+Base Qty/Portion        1     KG Specs 1 PTN =         1 KG
+
+Recipe Classification
+
+Recipe Type     SALD SALAD
+
+Content Type
+
+Meal Class
+
+Airline ID      CAS
+
+Process         COOK Cooking
+
+
+Item        Ingredient          Description            INGREDIENTS                                Quantity   Unit
+
+0010        RCASSTCH0484        (Stch)Steamed Brown Rice                                             1000    G      x      1
+                                                                                                                    x
+0020        801032              SALT FINE                                                              5     G             1
+0030        801015              PEPPER - WHITE GROUND                                                  5     G      x      1
+
+                                                       METHOD
+
+
+
+                    MIX ALL THE INGREDIENTS TOGETHER.
+                    .

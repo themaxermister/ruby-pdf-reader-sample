@@ -1,4 +1,4 @@
 git branch -M main/.history/
 /.vscode
 /data/*.pdf
-/output/*.txt
+/data/*.pdf
